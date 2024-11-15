@@ -1,17 +1,17 @@
 {
 	"schemaVersion": 1,
-	"id": "resolutioncontrol3",
+	"id": "resolutioncontrol4plus",
 	"version": "${version}",
 
-	"name": "ResolutionControl3",
+	"name": "Resolution Control ++++",
 	"description": "Change resolution of the game and HUD/GUI independently.",
 	"authors": [
-		"bgp", "juliand665", "UltimateBoomer", "fantahund"
+		"juliand665", "UltimateBoomer", "fantahund", "bgp", "SCT"
 	],
 	"contact": {
 		"homepage": "https://discord.gg/qJVwSK99G2",
-		"sources": "https://github.com/BGP0/ResolutionControl-3",
-		"issues": "https://github.com/BGP0/ResolutionControl-3/issues"
+		"sources": "https://github.com/ShrikerChestTrees/Resolution-Control-4Plus",
+		"issues": "https://github.com/ShrikerChestTrees/Resolution-Control-4Plus/issues"
 	},
 
 	"license": "MIT",
