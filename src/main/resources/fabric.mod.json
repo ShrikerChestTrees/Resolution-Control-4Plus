@@ -1,0 +1,48 @@
+{
+	"schemaVersion": 1,
+	"id": "resolutioncontrol3",
+	"version": "${version}",
+
+	"name": "ResolutionControl3",
+	"description": "Change resolution of the game and HUD/GUI independently.",
+	"authors": [
+		"bgp", "juliand665", "UltimateBoomer", "fantahund"
+	],
+	"contact": {
+		"homepage": "https://discord.gg/qJVwSK99G2",
+		"sources": "https://github.com/BGP0/ResolutionControl-3",
+		"issues": "https://github.com/BGP0/ResolutionControl-3/issues"
+	},
+
+	"license": "MIT",
+	"icon": "assets/resolutioncontrol/icon.png",
+
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"io.github.ultimateboomer.resolutioncontrol.ResolutionControlMod"
+		],
+		"modmenu": [
+			"io.github.ultimateboomer.resolutioncontrol.compat.modmenu.ModMenuInfo"
+		]
+	},
+	"mixins": [
+		"resolutioncontrol.mixins.json"
+	],
+	"accessWidener": "resolutioncontrol.accesswidener",
+	"depends": {
+		"minecraft" : ["1.21.1"],
+		"fabricloader": ">=0.15.11",
+		"fabric": "*",
+		"java": ">=21",
+		"modmenu": ">=11.0.0"
+	},
+	"suggests": {
+		"flamingo": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"update_checker": false
+		}
+	}
+}
