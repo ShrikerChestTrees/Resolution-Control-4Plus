@@ -9,7 +9,7 @@
 
 # Resolution Control ++++
 
-Resolution Control ++++ is a fork of [ResolutionControl3](https://github.com/BGP0/ResolutionControl-3?ysclid=m3ipus1vtl365115032) (fork of [ResolutionControl+](https://github.com/UltimateBoomer/Resolution-Control?ysclid=m3ipwlewqb6737760))
+Resolution Control ++++ is a fork of [ResolutionControl3](https://github.com/BGP0/ResolutionControl-3?ysclid=m3ipus1vtl365115032) (fork of [Resolution Control +](https://github.com/UltimateBoomer/Resolution-Control?ysclid=m3ipwlewqb6737760))
 
 This mod is typically used to increase your framerate as much as you want, and is especially useful on high resolution monitors.
 For example I have a 4k monitor and used this mod to render in 1080p, quadrupling my framerate. This mod does not affect the HUD/GUI so your inventory and menus will still look just as good!
